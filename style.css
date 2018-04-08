@@ -1,0 +1,28 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+.header_image {
+	width: 100%;
+	height: 70vh;
+	background: url("https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/18620469_1875730059355872_6073746771446438845_n.jpg?_nc_cat=0&oh=f8f5b23af684f07f724faffb654a9299&oe=5B760477"), center, center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1 {
+	color: red;
+}
+.btn {
+	background-color: blue;
+	color: white;
+}
+.btn:hover {
+	background-color: red;
+}
+
+p {
+	background-color: red;
+	color: white;
+}
